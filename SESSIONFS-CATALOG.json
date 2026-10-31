@@ -1,0 +1,26 @@
+{
+  "budget": {
+    "max_bytes": 268435456,
+    "max_files": 19968,
+    "max_plugin_bytes": 16777216,
+    "order": "namespace, name, version_id"
+  },
+  "excluded": [],
+  "generator_version": "2026.10.20.3",
+  "marketplace": "sessionfs",
+  "plugins": [
+    {
+      "content_hash": "sha256:652ee91e4ee2040bff8498fc15cffdc1c425ae2d044ad8f0ad6c2a046014fb46",
+      "omitted_components": [],
+      "package_id": "spk_b3ee8621cae2f891350ad486",
+      "path": "plugins/sessionfs--sessionfs-workflows",
+      "plugin": "sessionfs--sessionfs-workflows",
+      "projection_hash": "sha256:3e72706c2cb28697399bd11b8f9ddadc4afdf95074304c1cf294e1bd236428d5",
+      "version": "2.0.0",
+      "version_id": "skv_5e39d0bde1af56873c24f839"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "public",
+  "vendor_docs_checked": "2026-10-20"
+}
